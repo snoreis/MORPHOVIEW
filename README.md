@@ -7,7 +7,7 @@ Since the whole purpose of this pipeline is to analyze large 3D images, a CUDA-c
 
 
 ### Citation
-If you use this protocol, please cite the Developmental Dynamics  [paper]([https://www.biorxiv.org/content/10.1101/2024.06.26.600880v1](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.70061)):<br />
+If you use this protocol, please cite the Developmental Dynamics  [paper]([https://www.biorxiv.org/content/10.1101/2024.06.26.600880v1](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.70061):<br />
 "Whole tissue imaging of cellular boundaries at sub-micron resolutions for deep learning cell segmentation: Applications in the analysis of epithelial bending of ectoderm" <br />
 Sam Norris, Jimmy K. Hu, Neil H Shubin<br />
 _Developmental Dynamics_. 2025; 1-19. doi:10.1002/dvdy.70061
